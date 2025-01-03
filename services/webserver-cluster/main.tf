@@ -12,7 +12,6 @@ terraform {
   }
 }
 
-
 # remote backend config
 
 data "terraform_remote_state" "db" {
